@@ -1,4 +1,4 @@
-# Atividade Etapa 2 - Firmware: Medição Fasorial (PMU)
+# Firmware: Medição Fasorial (PMU)
 
 Este repositório contém a implementação de um firmware para o microcontrolador **STM32F446RET6 (ARM Cortex-M4F)**, desenvolvido para a aquisição de sinais analógicos e extração em tempo real de parâmetros fasoriais (Magnitude, Frequência, ROCOF e Fase). O projeto segue os princípios da norma IEC/IEEE 60255-118-1 para Unidades de Medição Fasorial (PMU).
 
